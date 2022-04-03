@@ -1,5 +1,4 @@
 # Neural-Net-Implementation
-This repository is to showcase my project done for my Deep Learning class. 
 
 This project's objective was to create a neural network model that can correctly classify the XOR problem, the sklearn, and MNIST handwritten digits problem within a minimal error tolerance. This Python program creates an Artificial Neural Network from scratch without the use of a library like keras tensorflow. The user can edit and select an arbitrary number of layers, the number of nodes in each layer, the number of training epochs, the Stochastic Gradient Descent with momentum parameter, select an activation function for each layer (sigmoid and ReLU), and the loss error function used for evaluation (Mean Square Error or Categorical Cross
 Entropy).
